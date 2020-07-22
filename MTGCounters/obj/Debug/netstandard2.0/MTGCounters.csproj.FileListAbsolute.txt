@@ -1,0 +1,15 @@
+/Users/gordonisler/Projects/MTGCounters/MTGCounters/bin/Debug/netstandard2.0/MTGCounters.deps.json
+/Users/gordonisler/Projects/MTGCounters/MTGCounters/bin/Debug/netstandard2.0/MTGCounters.dll
+/Users/gordonisler/Projects/MTGCounters/MTGCounters/bin/Debug/netstandard2.0/ref/MTGCounters.dll
+/Users/gordonisler/Projects/MTGCounters/MTGCounters/bin/Debug/netstandard2.0/MTGCounters.pdb
+/Users/gordonisler/Projects/MTGCounters/MTGCounters/obj/Debug/netstandard2.0/MTGCounters.csprojAssemblyReference.cache
+/Users/gordonisler/Projects/MTGCounters/MTGCounters/obj/Debug/netstandard2.0/MTGCounters.AssemblyInfoInputs.cache
+/Users/gordonisler/Projects/MTGCounters/MTGCounters/obj/Debug/netstandard2.0/MTGCounters.AssemblyInfo.cs
+/Users/gordonisler/Projects/MTGCounters/MTGCounters/obj/Debug/netstandard2.0/MTGCounters.csproj.CoreCompileInputs.cache
+/Users/gordonisler/Projects/MTGCounters/MTGCounters/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/gordonisler/Projects/MTGCounters/MTGCounters/obj/Debug/netstandard2.0/MTGCounters.dll
+/Users/gordonisler/Projects/MTGCounters/MTGCounters/obj/Debug/netstandard2.0/ref/MTGCounters.dll
+/Users/gordonisler/Projects/MTGCounters/MTGCounters/obj/Debug/netstandard2.0/MTGCounters.pdb
+/Users/gordonisler/Projects/MTGCounters/MTGCounters/bin/Debug/netstandard2.0/Mono.Android.dll
+/Users/gordonisler/Projects/MTGCounters/MTGCounters/bin/Debug/netstandard2.0/Mono.Android.pdb
+/Users/gordonisler/Projects/MTGCounters/MTGCounters/obj/Debug/netstandard2.0/MTGCounters.csproj.CopyComplete
