@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bundle-id</key>
+		<string>com.IslerGordon.MTG-Counters.asset-pack-24KUCX3OM4TNV</string>
+		<key>bundle-path</key>
+		<string>/Users/gordonisler/Projects/MTGCounters/MTGCounters.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.5.1/actool/OnDemandResources/com.IslerGordon.MTG-Counters.LoadingScreen.assetpack</string>
+		<key>tags</key>
+		<array>
+			<string>LoadingScreen</string>
+		</array>
+	</dict>
+</array>
+</plist>

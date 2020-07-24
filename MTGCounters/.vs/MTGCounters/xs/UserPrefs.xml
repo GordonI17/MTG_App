@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{67F33E40-7A13-4151-8221-277A43C7FBDF}|Default">
+  <MonoDevelop.Ide.ItemProperties.MTGCounters.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MTGCounters/Views/MainPageView.cs">
+    <Files>
+      <File FileName="MTGCounters/Views/MainPageView.cs" Line="372" Column="41" IsPinned="True" />
+      <File FileName="MTGCounters/ViewModels/MainPageViewModel.cs" />
+      <File FileName="MTGCounters/ModelAndObjects/PlayerModel.cs" />
+      <File FileName="MTGCounters/Views/PlayerView.cs" />
+      <File FileName="MTGCounters/Views/SettingPageView.cs" />
+      <File FileName="MTGCounters/App.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MTGCounters" expanded="True">
+            <Node name="MTGCounters" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="ModelAndObjects" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="MainPageView.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="MTGCounters.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="MTGCounters.iOS" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MTGCounters.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4ABB1A40-D23D-4DF0-96CF-8CFFA096F815" />
+  <MultiItemStartupConfigurations />
+</Properties>
